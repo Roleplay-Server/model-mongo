@@ -1,6 +1,6 @@
 {
-  "name": "@edenjs/model-mongo",
-  "version": "1.1.0",
+  "name": "@fivem-rp/model-mongo",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "eslint-plugin-react": "^7.12.4"
   },
   "dependencies": {
-    "@edenjs/mquery": "^3.2.0",
+    "@fivem-rp/mquery": "^3.2.0",
     "mongodb": "3.2.3"
   }
 }

@@ -1,7 +1,7 @@
 
 
 // Require dependencies
-const MQuery = require('@edenjs/mquery');
+const MQuery = require('@fivem-rp/mquery');
 const { MongoClient, ObjectId } = require('mongodb');
 
 /**
